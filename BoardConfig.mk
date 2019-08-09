@@ -16,6 +16,8 @@
 
 LOCAL_PATH := device/motorola/perry
 
+AB_OTA_UPDATER := false
+
 # Architecture
 TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a-neon
